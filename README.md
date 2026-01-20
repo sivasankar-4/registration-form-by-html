@@ -14,5 +14,5 @@ A clean and responsive user registration form built using HTML and CSS.
    - Center the form on the page
    - Arrange elements vertically using Flexbox
    - Add spacing, borders, and colors for a premium UI
-9. Style buttons with hover and focus effects.
-10. Ensure the layout is clean and responsive for different screen sizes.
+9. After that Style buttons with hover and focus effects.
+10. finally the layout is clean and responsive for different screen sizes.
